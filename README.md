@@ -39,7 +39,7 @@ Dataset source: [UCI Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datase
 - **Why this model:** Good accuracy, stable behavior, and easy to maintain in production
 
 ---
-
+As per the assignment you will find answers of all questions (mentioned in an assignment) in the ending of notebook.
 
 ---
 
