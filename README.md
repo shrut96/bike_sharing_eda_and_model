@@ -20,13 +20,14 @@ This project forecasts **hourly bike rental demand (`cnt`)** using historical da
 
 Target variable: `cnt` (total rentals per hour)
 
-Dataset source: UCI Bike Sharing Dataset
+Dataset source: [UCI Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset.)
 
 ---
 
 ## How to Run (Google Colab)
 
-1. Open the notebook in Google Colab
+1. Open the notebook in Google Colab https://github.com/shrut96/bike_sharing_eda_and_model/blob/main/bike_sharing_eda_and_model.ipynb
+   
 3. Run all cells from top to bottom
 
 ---
@@ -42,6 +43,3 @@ Dataset source: UCI Bike Sharing Dataset
 
 ---
 
-## Author
-
-[Your Name]
